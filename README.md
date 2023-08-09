@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation 
 - 🌱 I’m currently learning Java and selenium
 - 💞️ I’m looking to collaborate on automation projects
-- 📫 How to reach me pooja.agrawal1612@gmail.com 
+- 📫 How to reach me poojaa1253@gmail.com 
 
 <!---
 poojaautomation16/poojaautomation16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
